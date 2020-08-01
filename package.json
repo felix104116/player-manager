@@ -34,6 +34,10 @@
     },
     "rules": {}
   },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/felix104116/player-manager.git"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
