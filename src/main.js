@@ -15,3 +15,6 @@ new Vue({
   router: new VueRouter({ routes, mode: 'history' }),
   store
 }).$mount('#app')
+
+
+// allo 
